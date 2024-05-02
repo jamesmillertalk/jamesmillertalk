@@ -1,10 +1,7 @@
-- 👋 嗨，我是 felix james
+- 👋 HI，I'm felix james
 - 👀 I'm interested in book and food
-- 🌱 我目前正在学习 spanish            
-- 💞️ 我正在寻找合作机会 NO            
-- 📫 如何联系我 ...            
-- 😄 代词： ...            
-- ⚡ 有趣的事实： ...            
+- 🌱 I'm currently studying English and spanish            
+           
 
 
 <!---
